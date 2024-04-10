@@ -1,6 +1,5 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css'
-import Img from './component/Img';
 import Btn from './component/Btn';
 function App() {
   return (
@@ -9,12 +8,8 @@ function App() {
       <div>
         <Btn/>
       </div>
-      <div className='mt-3'>
-        <Img/>
-      </div>
-      <div className='mt-3'>
-        <Btn/>
-      </div>
+      
+
     </div>
   );
 }
