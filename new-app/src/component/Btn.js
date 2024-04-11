@@ -39,7 +39,8 @@ export default function Btn() {
           <Card.Body>
             <Card.Title>Spidy</Card.Title>
           </Card.Body>
-          <Card.Footer><CloseButton onClick={handleCloseCard} /></Card.Footer>
+          <Card.Footer><CloseButton onClick={handleCloseCard} />
+            <Button></Button></Card.Footer>
         </Card>
       )}
     </div>
