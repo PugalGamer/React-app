@@ -10,7 +10,8 @@ export default function Img() {
           </Col>
         </Row>
         <Row>
-    <Col></Col>
+    <Col sx={6}></Col>
+    <Col sx={6}></Col>
     </Row>
     </div>
   )
