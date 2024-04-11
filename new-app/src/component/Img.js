@@ -9,7 +9,9 @@ export default function Img() {
           <Image src="./Images/SPIDERMAN.jpg" flui8d />
           </Col>
         </Row>
-        <Row></Row>
+        <Row>
+    <Col></Col>
+    </Row>
     </div>
   )
 }
