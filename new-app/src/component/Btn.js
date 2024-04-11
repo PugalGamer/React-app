@@ -17,6 +17,7 @@ export default function Btn() {
 
   return (
     <div>
+      <Row></Row>
       <Row>
         <Col sm={3} className='border '>
           <Button variant='light' className='' onClick={() => handleClick('React')}>React</Button>
